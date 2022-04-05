@@ -7,6 +7,10 @@
     <div class="form-item">
       <SlugInput v-model="game.slug" />
     </div>
+
+    <button type="submit">
+      Submit
+    </button>
   </form>
 </template>
 
